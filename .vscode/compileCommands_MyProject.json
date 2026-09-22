@@ -1,0 +1,18 @@
+[
+	{
+		"file": "/Users/derjen/Documents/Unreal Projects/MyProject/Source/MyProject/MyActor.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/derjen/Documents/Unreal Projects/MyProject/.vscode/compileCommands_MyProject/MyProject.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	},
+	{
+		"file": "/Users/derjen/Documents/Unreal Projects/MyProject/Source/MyProject/MyProject.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/derjen/Documents/Unreal Projects/MyProject/.vscode/compileCommands_MyProject/MyProject.0.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.8/Engine/Source"
+	}
+]
